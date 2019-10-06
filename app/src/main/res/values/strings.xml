@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio 2.1</string>
+    <string name="textTitulo1">Introduce el PRIMER valor</string>
+    <string name="textTitulo2">Introduce el SEGUNDO valor</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="txtResultado">La suma es:</string>
+</resources>
